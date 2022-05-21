@@ -16,5 +16,11 @@
     "commenter_name": "mary",
     "comment": "Очень здорово!",
     "pk": 7
+  },
+  {
+    "post_pk": 2,
+    "commenter_name": "mary",
+    "comment": "Не может этого быть!",
+    "pk": 8
   }
 ]

@@ -1,7 +1,5 @@
 import json
 
-
-
 class CommentsDAO:
     def __init__(self, path):
         self.path = path
